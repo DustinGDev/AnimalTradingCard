@@ -1,0 +1,39 @@
+/* add your CSS here */
+li {
+	list-style-type:none;
+}
+
+#LionCard {
+	height:850px;
+	width:350px;
+	padding-left:25px;
+	padding-right:25px;
+	padding-top:-10px;
+	-webkit-box-shadow: 17px 20px 5px -12px rgba(0,0,0,0.25);
+	-moz-box-shadow: 17px 20px 5px -12px rgba(0,0,0,0.25);
+	box-shadow: 17px 20px 5px -12px rgba(0,0,0,0.25);
+	text-align: center;
+}
+
+#picture {
+	width:300px;
+}
+
+.border {
+	border:1px solid #e1e5ed;
+}
+
+.correction  {
+	padding-right:10px;
+	padding-left:10px;
+	text-align: left;
+}
+
+.listing {
+	margin:0px;
+	padding:0px;
+}
+
+.spacing{
+	margin-top:20px;	
+}
